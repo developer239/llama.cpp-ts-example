@@ -1,0 +1,16 @@
+{
+  "name": "llama.cpp-ts-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node -r tsconfig-paths/register src/index.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.5.4"
+  }
+}
