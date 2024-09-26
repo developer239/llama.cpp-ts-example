@@ -307,10 +307,10 @@ jsonfile@^6.0.1:
   optionalDependencies:
     graceful-fs "^4.1.6"
 
-llama.cpp-ts@^1.0.10:
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/llama.cpp-ts/-/llama.cpp-ts-1.0.10.tgz#fba23c676dd2b2b8c511d1afa3b728b32c503b29"
-  integrity sha512-1TnFUB4RPcm7nqyb6OBs84jQc3GKYbudl++xMDrQ8gXWHX75i5FBkvVFLcgXxiYM8oxD4DRcYzgjZzPgmaYZSw==
+llama.cpp-ts@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/llama.cpp-ts/-/llama.cpp-ts-1.1.0.tgz#9e17f9258bf0a938579fb88da8d03fb9472127eb"
+  integrity sha512-Usaiybq4CuAydC2wgzDGTo+8pJKmsFRYkxAtPp+oKn8MmzTbVZbiGqPvS46IYk+/aSdWIAYrfxs61qekmCpxFA==
   dependencies:
     cmake-js "7.3.0"
     node-addon-api "8.1.0"
